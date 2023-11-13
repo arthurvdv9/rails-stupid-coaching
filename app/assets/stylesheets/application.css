@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+ .form-submit-button {
+  background: #0066A2;
+  color: white;
+  border-style: outset;
+  border-color: #0066A2;
+  font: bold15px arial,sans-serif;
+  text-shadow: none;
+  border-radius: 5px;
+  border-bottom: none;
+ }
+
+ .input-text-style {
+  width: 300px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
